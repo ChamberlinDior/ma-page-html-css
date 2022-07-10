@@ -1,0 +1,106 @@
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+
+header {
+    padding: 30px;
+   
+    color: rgb(241, 243, 244);
+    background-color: #7451eb;
+   
+}
+
+.photo img{
+    border-radius: 150px;
+}
+
+.des{
+   float: left; 
+   margin-right: 250px;
+   
+}
+  
+h3{
+    color: #fff;
+    font-weight: bold;
+    letter-spacing: .1rem;
+    font-size: 30px;
+}
+ .post{
+    color:#000;
+    background: #7FFFD4;
+    padding: 8px;
+    width: 300px; 
+    font-weight: bold;
+  
+    font-size: 20px;
+    
+} 
+ 
+.right{
+    padding: 0;
+    margin: 5px;
+    margin-top: -15%;
+    color: rgb(243, 246, 250);
+}
+.right p{
+   margin-left: 600px;
+   letter-spacing: .1rem;    
+}
+
+.bod h2 spam{
+    color:#000;
+    background: #7FFFD4;
+     padding: 9px;
+    width: 450px; 
+    font-weight: bold;  
+    font-size: 20px;
+    text-align: center;
+  
+}
+
+.bod h2 {
+    /* padding: 50px; */
+    text-decoration-color: white;
+}
+.bod {
+    /* padding: 10px; */
+   float: right;
+   margin-right: 250px;
+}
+
+.pic {
+   border-radius: 300px;
+  margin-left: 300px;
+}
+
+footer{
+    padding: 100px;
+   
+    color: rgb(241, 243, 244);
+    background-color:#0B0B61; 
+}
+
+footer p spam{
+        color:#000;
+        background: #7FFFD4;
+         padding: 9px;
+        width: 450px; 
+        font-weight: bold;  
+        font-size: 20px;
+        text-align: center;   
+}
+
+footer p{
+   
+    letter-spacing: .1rem;
+    font-size: 20px;    
+ }
+ form {
+border-radius: 60;
+} 
+footer a{
+    color: whitesmoke;
+    font-size: 20px;
+}
